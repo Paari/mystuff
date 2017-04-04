@@ -22,7 +22,9 @@
 
   },
   "scripts": {
-    "test": "Gulp task runner"
+    "start": "gulp",
+    "watch": "gulp watch",
+    "less": "gulp less"
   },
   "repository": {
     "type": "git",

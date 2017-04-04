@@ -41,6 +41,14 @@ Run the gulp command in your project directory:
 gulp
 ```
 
+
+## Usage ##
+Run the following command to start the watch and other other gulp files    
+`npm start`   
+
+For less compilation : `npm run less`   
+
+
 ## Folder Structure ##
 ```
 .
